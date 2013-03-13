@@ -7,7 +7,7 @@
    class are initFrame and setPixel.
  */
 
-public class MyMISApplet extends MISApplet {
+public class MyMISApplet1 extends MISApplet {
 
 	//----- THESE TWO METHODS OVERRIDE METHODS IN THE BASE CLASS
 
